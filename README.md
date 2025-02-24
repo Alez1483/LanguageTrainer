@@ -1,1 +1,2 @@
+# Language Trainer
 Simple C# Console app for creating and learning vocabularies (called sets in the program). Create vocabularies by typing them in following the instructions. Vocabularies are saved in JSON files for later use. Vocabularies can be trained both ways (e.g. English to Finnish and other way around) and words ended with "-->" will not be asked again (assuming it was otherwise correct). Currently the only way to modify created vocabularies is to edit the JSON file.
